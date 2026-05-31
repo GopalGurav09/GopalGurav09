@@ -16,7 +16,7 @@
 - Enhancing backend logic with PHP and integrating with frontend seamlessly.<br><br>
 
 ### 🌱 Currently Learning<br>
-- Advanced JavaScript concepts and backend PHP development.<br><br>
+- Advanced JavaScript concepts and servicenowdeveloper course...<br><br>
 
 ### 💬 Ask Me About<br>
 - Frontend web design, learning web development, and using HTML/CSS effectively.<br><br>
