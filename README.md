@@ -7,7 +7,7 @@
 ## I am Gopal Gurav<br><br>
 
 ### 🔭 Currently Working On<br>
-- Building dynamic websites using PHP and JavaScript.<br><br>
+service now developer and JavaScript.<br><br>
 
 ### 👯 Looking to Collaborate On<br>
 - Open source web development projects or frontend UI enhancements.<br><br>
