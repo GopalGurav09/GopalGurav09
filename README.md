@@ -29,7 +29,7 @@
 
 ## 🌐 Socials:
 <p>
-    <a href="https://instagram.com/sujalpatil3799">
+    <a href="https://instagram.com/authenticclicks09">
         <img src="https://skillicons.dev/icons?i=instagram" align="center">
     </a>
 </p>
